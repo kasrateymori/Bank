@@ -1,1 +1,1 @@
-print("Reports Page")
+print("Main Page")
